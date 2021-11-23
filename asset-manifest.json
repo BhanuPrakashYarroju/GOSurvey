@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GOSurvey/static/css/main.2c15d672.chunk.css",
+    "main.js": "/GOSurvey/static/js/main.27a2f69a.chunk.js",
+    "main.js.map": "/GOSurvey/static/js/main.27a2f69a.chunk.js.map",
+    "runtime-main.js": "/GOSurvey/static/js/runtime-main.216add20.js",
+    "runtime-main.js.map": "/GOSurvey/static/js/runtime-main.216add20.js.map",
+    "static/js/2.a734c883.chunk.js": "/GOSurvey/static/js/2.a734c883.chunk.js",
+    "static/js/2.a734c883.chunk.js.map": "/GOSurvey/static/js/2.a734c883.chunk.js.map",
+    "static/js/3.eb346ceb.chunk.js": "/GOSurvey/static/js/3.eb346ceb.chunk.js",
+    "static/js/3.eb346ceb.chunk.js.map": "/GOSurvey/static/js/3.eb346ceb.chunk.js.map",
+    "index.html": "/GOSurvey/index.html",
+    "static/css/main.2c15d672.chunk.css.map": "/GOSurvey/static/css/main.2c15d672.chunk.css.map",
+    "static/js/2.a734c883.chunk.js.LICENSE.txt": "/GOSurvey/static/js/2.a734c883.chunk.js.LICENSE.txt",
+    "static/media/Accessible-Forms.252ca7c1.png": "/GOSurvey/static/media/Accessible-Forms.252ca7c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.216add20.js",
+    "static/js/2.a734c883.chunk.js",
+    "static/css/main.2c15d672.chunk.css",
+    "static/js/main.27a2f69a.chunk.js"
+  ]
+}
