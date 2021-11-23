@@ -1,0 +1,4 @@
+export const GET_QUESTIONS = 'GET_QUESTIONS'
+export const POST_QUESTION = 'POST_QUESTION'
+export const STORE_QUESTION = 'STORE_QUESTION'
+export const GET_ERRORS = 'GET_ERRORS'
